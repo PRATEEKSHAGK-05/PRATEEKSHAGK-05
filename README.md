@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="GitHub Banner">
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Prateeksha+G+K;Computer+Science+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;DevOps+Learner;Problem+Solver" alt="Typing Animation"/>
 </h1>
