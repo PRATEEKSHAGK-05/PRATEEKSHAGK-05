@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="GitHub Banner">
-</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Prateeksha+G+K;Computer+Science+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;DevOps+Learner;Problem+Solver" alt="Typing Animation"/>
 </h1>
@@ -48,12 +46,11 @@ Passionate about building scalable web applications, exploring Machine Learning,
 - Full Stack Web Development
 - Machine Learning
 - Artificial Intelligence
-- DevOps
 - Problem Solving
 
 🏆 Winner of multiple Hackathons
 
-📚 Currently working on an Explainable AI based DDoS Detection Framework for HAPS Networks.
+Currently working on an Explainable AI based DDoS Detection Framework for HAPS Networks.
 
 ---
 
@@ -166,32 +163,6 @@ Passionate about building scalable web applications, exploring Machine Learning,
 <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🏙️ CityConnect – Smart Citizen Super App
-
-A MERN-based citizen engagement platform featuring complaint management, emergency assistance, role-based access control, Twilio integration, and real-time notifications.
-
----
-
-### 🩸 Centralized Blood Bank Network Hub
-
-An intelligent blood bank management platform with multilingual AI chatbot assistance, donor-hospital coordination, FIFO inventory management, and Razorpay payment integration.
-
----
-
-### 🛡️ Adaptive Chaotic Jaya & XGBoost Based DDoS Detection for HAPS Networks
-
-An ongoing research project focused on developing an explainable machine learning framework for detecting DDoS attacks in High Altitude Platform Station (HAPS) communication networks.
-
----
-
-### 😊 Sentiment Analysis Using AI
-
-A multilingual sentiment analysis system developed using Python and VADER for emotion classification and visualization.
 
 ---
 
